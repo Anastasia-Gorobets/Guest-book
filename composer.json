@@ -1,0 +1,14 @@
+{
+  "name": "nastya/guest-book",
+  "authors": [
+    {
+      "name": "Nastya",
+      "email": "nastya.gorobets95@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+    }
+  }
+}
