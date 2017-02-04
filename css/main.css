@@ -1,0 +1,31 @@
+.container{
+    background:url("images/paper.png")  repeat ;
+}
+input, textarea{
+    margin: 10px 0;
+}
+textarea{
+    resize: none;
+}
+.site-btn{
+    margin-bottom: 5px;
+    background-color: #00bfbf;
+    color: #000000;
+}
+.btn-default.site-btn:hover, .btn-default.site-btn:active{
+    background-color:#2a85a0;
+}
+#captchaCode{
+    cursor: pointer;
+}
+.error{
+    color:#8b0000;
+}
+input.form-control:active, input.form-control:link, input.form-control:focus{
+    border: 2px solid #2a85a0;
+    box-shadow: none;
+}
+textarea.form-control:active, textarea.form-control:link, textarea.form-control:focus{
+    border: 2px solid #2a85a0;
+    box-shadow: none;
+}
