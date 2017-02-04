@@ -6,7 +6,9 @@
       "email": "nastya.gorobets95@gmail.com"
     }
   ],
-  "require": {},
+  "require-dev": {
+    "abeautifulsite/simple-php-captcha": "^1.0"
+  },
   "autoload": {
     "psr-4": {
     }
